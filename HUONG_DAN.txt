@@ -1,0 +1,1 @@
+Giải nén toàn bộ thư mục, mở index.html bằng Chrome. Cần Internet để tải bản đồ. Chọn ghim 01, 07, 08, 09 để xem video Tiếng Việt hoặc English; ghim 05 có video Thu Giang. Không tách thư mục images và videos khỏi index.html.
